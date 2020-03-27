@@ -1,0 +1,11 @@
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.Form1.resources
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.Resources.resources
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.vbproj.GenerateResource.Cache
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.xml
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.pdb
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.xml
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.exe
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.pdb
+D:\code\dotnet\VisualStudio\TechDev-Studio\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.vbprojResolveAssemblyReference.cache

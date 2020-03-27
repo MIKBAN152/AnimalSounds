@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <floor_port>
+        <port>COM10</port>
+    </floor_port>
+</config>
